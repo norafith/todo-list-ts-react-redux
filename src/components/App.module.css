@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: grid;
+  width: 100%;
+  grid-template-columns: minmax(150px, 1fr) 4fr;
+  grid-template-rows: 1fr;
+}/*# sourceMappingURL=App.module.css.map */
